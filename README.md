@@ -1,4 +1,15 @@
-### Hi there 👋
+# **Kolby Franklin's SQL Portfolio**
+
+***Welcome to the SQL Portfolio of _Kolby Franklin_!*** This code repository showcases example SQL code that I have written. 
+
+**🔭 I’m currently working on becoming a data analyst.**
+
+**⚡ Fun fact: I'm a math teacher looking to pivot careers!**
+
+**I can be reached for questions or comments at Kfranklin2409@gmail.com.** 
+
+**Thank you for taking the time to look at my portfolio!**
+
 
 <!--
 **Kfranklin2409/Kfranklin2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
