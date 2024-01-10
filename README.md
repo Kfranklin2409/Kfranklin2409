@@ -4,6 +4,8 @@
 
 **🔭 I’m currently working as a data analyst.**
 
+ **🌱 I’m currently learning Python and R programnming language.**
+
 **⚡ Fun fact: I transitioned from being a math teacher after 9 years in the classroom!**
 
 **I can be reached for questions or comments at Kfranklin2409@gmail.com.** 
