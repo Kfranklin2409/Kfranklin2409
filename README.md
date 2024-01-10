@@ -4,7 +4,7 @@
 
 **🔭 I’m currently working as a data analyst.**
 
- **🌱 I’m currently learning Python and R programnming language.**
+ **🌱 I’m currently learning Python and R programnming languages.**
 
 **⚡ Fun fact: I transitioned from being a math teacher after 9 years in the classroom!**
 
