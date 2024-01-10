@@ -4,7 +4,7 @@
 
 **🔭 I’m currently working as a data analyst.**
 
-**⚡ Fun fact: I transitioned from being a math teacher!**
+**⚡ Fun fact: I transitioned from being a math teacher after 9 years in the classroom!**
 
 **I can be reached for questions or comments at Kfranklin2409@gmail.com.** 
 
